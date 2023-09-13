@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @subconstruction
 - 🌱 I’m currently learning C++/IDA/Assembler
+- 👀 Also in touch with Python/Lua/JavaScript(Node)

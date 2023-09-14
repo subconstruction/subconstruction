@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subconstruction
-- 🌱 I’m currently learning Asm/C++ ~ Reverse Engineering
+- 🌱 I’m currently learning Asm/C++ ~ Reverse Engineering / Game Hacking
 - 👀 Familiar with С#/JavaScript/Python/Lua/Nodejs
   
 

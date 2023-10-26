@@ -1,8 +1,10 @@
-#### Information
+#### Introducing
 
 - 👋 Hi, I’m @subconstruction
 - 🌿 I’m currently learning Asm/C++ ~ Reverse Engineering / Game Hacking
 - 😶‍🌫 Familiar with С#/JavaScript/Python/Lua
+
+#### Information
 
 [![wakatime](https://wakatime.com/badge/user/018b656a-a6ba-405e-86e7-6317ad04e233.svg)](https://wakatime.com/@018b656a-a6ba-405e-86e7-6317ad04e233)
 

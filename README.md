@@ -1,8 +1,8 @@
 #### Introducing
 
 - Hi, I’m [@subconstruction](https://github.com/subconstruction?tab=repositories) 
-- I’m currently learning Asm/C++ ~ Reverse Engineering / Game Hacking
 - Familiar with С#/JavaScript/Python/Lua
+- I’m currently learning Asm/C++ ~ Reverse Engineering / Game Hacking
 
 #### Information
 - [Python](https://github.com/subconstruction/py3) - main repository of my python projects.

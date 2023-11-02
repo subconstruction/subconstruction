@@ -10,6 +10,6 @@
 
 #### Leetcode
 - [Leetcode Profile](https://leetcode.com/subconstruction/)
-- [Leetcode Repository](https://github.com/subconstruction/py3) - src of solutions.
+- [Leetcode Repository](https://github.com/subconstruction/leetcode) - src of solutions.
 
 [![wakatime](https://wakatime.com/badge/user/018b656a-a6ba-405e-86e7-6317ad04e233.svg)](https://wakatime.com/@018b656a-a6ba-405e-86e7-6317ad04e233)
